@@ -31,6 +31,7 @@ yarn-error.log
 # Miscellaneous
 Payment/.angular/cache
 Billing/.angular/cache
+Shell/.angular/cache
 .sass-cache/
 /connect.lock
 /coverage
